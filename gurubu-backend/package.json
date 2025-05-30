@@ -19,7 +19,7 @@
     "openai": "^4.86.2",
     "redis": "^4.6.10",
     "socket.io": "^4.7.2",
-    "uuid": "^9.0.1"
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.23.2",
